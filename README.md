@@ -28,6 +28,12 @@ City_Codes: City Name encoded as integers  <br /> <br />
 
 ```
 
+What we built: Essentially what we have is a notebook for users to be able to put what they value in terms of what is important to them when moving to a new location. The interactive drop downs and sliders allow the user to do that and utilizes the dataset the TD has given us with the City Search Tool challenge and the dataset that we have found ourselves online.</br>
+
+Challenges in Project: The biggest ones we faced that we ended up not being able to solve due to not enough time or not enough knowledge happened to go with the interactive design and getting the GUI to work with our code. We wanted to have a dropdown box that allowed the user to select what type of plot they wanted to see but it didn't work out so we had to settle with just allowing the user to select the x and y for data visualization. The challenges that we did overcome was, in the beginning, we had only used only three datasets which were ALL from Numbeo but then when we re-read the challenge description it seemed like TD wanted us to use the movehub csv as well so it was quite a bit of time trying to figure out how we were going to merge the numbeo datasets with movehub dataset. In the end, we think it was pretty clever what we had to do, for one we had two columns dealing with pollution in that were attached to the same city/country. We ended up just taking the largest value of pollution because it's' generally a lot of pollution in the world and if a user were to believe that the certain location they moved to was xx in pollution vs in yy pollution they might not be happy so it's better to overshoot the pollution.</br>
+
+What we have learned: Definitely learned how to join multiple datasets and work with python widgets. It's extremely cool to start doing interactive things versus hardcoding everything</br>
+
 
 ### Analytics: 
 <p>Effective application of analytics (bonus points for ML/clustering techniques)</p>
