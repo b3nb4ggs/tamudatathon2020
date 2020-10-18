@@ -20,13 +20,6 @@ lat: latitude of city <br />
 lng: longitude of city <br />
 City_Codes: City Name encoded as integers  <br /> <br />
 
-### Data Use: 
-<p>Effectively used data, acquired additional data </p>
-
-```diff
-+ aquired new data by importing three datasets we found
-
-```
 
 What we built: Essentially what we have is a notebook for users to be able to put what they value in terms of what is important to them when moving to a new location. The interactive drop downs and sliders allow the user to do that and utilizes the dataset the TD has given us with the City Search Tool challenge and the dataset that we have found ourselves online.</br>
 
@@ -34,6 +27,14 @@ Challenges in Project: The biggest ones we faced that we ended up not being able
 
 What we have learned: Definitely learned how to join multiple datasets and work with python widgets. It's extremely cool to start doing interactive things versus hardcoding everything</br>
 
+
+### Data Use: 
+<p>Effectively used data, acquired additional data </p>
+
+```diff
++ aquired new data by importing three datasets we found
+
+```
 
 ### Analytics: 
 <p>Effective application of analytics (bonus points for ML/clustering techniques)</p>
