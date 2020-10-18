@@ -1,4 +1,4 @@
-# tamudatathon2020
+# TAMU_Datathon2020
 
 **Challenge:** City Search Tool <br />
 **Problem:** Find a way to select the best place on earth to move to based on (suggested) median income of a location, cuisine, primary ethnicity, pollution index, happiness index, number of coffee shops or microbreweries in the city, etc. <br /> <br />
@@ -20,7 +20,37 @@ lat: latitude of city <br />
 lng: longitude of city <br />
 City_Codes: City Name encoded as integers  <br /> <br />
 
+### Data Use: 
+<p>Effectively used data, acquired additional data </p>
 
+```diff
++ aquired new data by importing three datasets we found
+
+```
+
+
+### Analytics: 
+<p>Effective application of analytics (bonus points for ML/clustering techniques)</p>
+
+```diff
++ Used a decistion tree and random forest regressor
+
+```
+
+ ### Visualization: <p>Solution is visually appealing and useful (Bonus points if you create an interactive tool/application/website)</p>
+
+```diff
++  Used interactive widgets to show our graphs and to let user choose what features to use in the model
+
+```
+
+### Impact: 
+<p> Clear impact of solution to solving problem</p>
+
+```diff
++  Solution is to get through the modeling section and get the list of cities, then look up the city based on it's code. <b>The impact of our project is that people will be able to select the best place on earth to move to, based on the features and importance values they they hold to themselves.</b>
+
+```
 
 **Resources** <br />
 One data set is from TAMU Datathon from City Search Tool page in TD website and retrieved from https://www.datalogz.io/ <br />
